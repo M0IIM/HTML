@@ -1,0 +1,22 @@
+body{
+	background-color:#6A563A;
+	color:#fff;
+}
+img{
+	width:300px;
+	height:200px;
+
+}
+
+a{
+	color:#FF0000;
+	text-decoration: none;
+}
+b{
+	color:yellow;
+}
+h1, h2
+{
+	color:#6B7CC4;
+}
+
